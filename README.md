@@ -16,7 +16,7 @@ ensure your folder is organized as follows:
 └── icons/
     ├── black/
     └── white/
-    
+```
 ##important: minibin setup
 
 for this script to work without permission errors, you must move your minibin installation:
