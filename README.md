@@ -1,3 +1,6 @@
+<img width="1600" height="834" alt="minibin final" src="https://github.com/user-attachments/assets/8378c3ae-9eba-4354-973d-64d26ef1aa6c" />
+
+
 # minibin icons switcher
 
 some mini automated script to synchronize minibin icons with windows (10 and 11) system themes (light/dark mode). 
