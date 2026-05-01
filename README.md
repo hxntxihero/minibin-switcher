@@ -17,7 +17,7 @@ ensure your folder is organized as follows:
     ├── black/
     └── white/
 ```
-##important: minibin setup
+## important: minibin setup
 
 for this script to work without permission errors, you must move your minibin installation:
 
@@ -26,7 +26,7 @@ for this script to work without permission errors, you must move your minibin in
     2. move minibin.exe and its files to %appdata%\minibin. (or roaming)
     
 
-##how to use with autodarkmode?
+## how to use with autodarkmode?
 
     1. open autodarkmode and go to the scripts section.
 
@@ -39,6 +39,6 @@ for this script to work without permission errors, you must move your minibin in
     ArgsDark: ["Dark"]
     
     
-##notes
+## notes
 - if the empty icon looks stock, rename or delete the res file in your minibin appdata folder.
 - the script uses a small delay to ensure windows finishes the theme transition before swapping icons.
